@@ -9,11 +9,11 @@ const BlogCard = () => {
         />
       </a>
       <a href="#">
-        <h5 className="mt-6 mb-2 text-2xl font-semibold tracking-tight text-heading">
+        <h5 className="mt-6 mb-2 text-2xl font-semibold tracking-tight text-heading truncate">
           Streamlining your design process today.
         </h5>
       </a>
-      <p className="mb-6 text-body">
+      <p className="mb-6 text-body truncate">
         In today’s fast-paced digital landscape, fostering seamless
         collaboration among Developers and IT Operations.
       </p>
