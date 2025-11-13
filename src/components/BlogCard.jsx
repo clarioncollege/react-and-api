@@ -1,4 +1,4 @@
-const TodoCard = () => {
+const BlogCard = () => {
   return (
     <div className="bg-neutral-primary-soft block max-w-sm p-6 border rounded-2xl shadow-xs mb-10">
       <a href="#">
@@ -44,4 +44,4 @@ const TodoCard = () => {
   );
 };
 
-export default TodoCard;
+export default BlogCard;
