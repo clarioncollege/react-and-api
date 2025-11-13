@@ -1,9 +1,9 @@
-import TodoList from "./components/TodoList";
+import BlogList from "./components/BlogList";
 
 function App() {
   return (
     <section className="container mx-auto my-20">
-      <TodoList />
+      <BlogList />
     </section>
   );
 }
